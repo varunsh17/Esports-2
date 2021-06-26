@@ -62,7 +62,7 @@ color:  #00fcfc;
     width: 62vw;
     height: 50vh;
     clip-path: circle(35% at 50% 50%);
-  
+    top: 15vh;
   }
   .triangle{
 
