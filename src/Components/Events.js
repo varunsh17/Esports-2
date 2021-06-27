@@ -1,5 +1,4 @@
 import React from 'react';
-import 'vanilla-tilt';
 import './style.css';
 function Events() {
 	return (
@@ -15,7 +14,6 @@ function Events() {
 								<a href='www.google.com'>Play now</a>
 							</div>
 						</div>
-
 						<div className='card' id='card-two' data-tilt data-tilt-scale='1.5'>
 							<div className='content'>
 								<h3>SUICIDE SQUAD</h3>
