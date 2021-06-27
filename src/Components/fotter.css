@@ -248,6 +248,7 @@ footer p {
 /*fixed phone_info*/
 @media (max-width: 600px) {
 	#phone_no {
+		width: max-content;
 		text-justify: auto;
 	}
 }
