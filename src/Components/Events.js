@@ -1,4 +1,5 @@
 import React from 'react';
+import 'vanilla-tilt';
 import './style.css';
 function Events() {
 	return (
