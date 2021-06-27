@@ -2,9 +2,9 @@
 	margin: 0;
 	padding: 0;
 }
-html.touch *:hover {
+/* html.touch *:hover {
 	pointer-events: none !important;
-}
+} */
 /* HOMEPAGE CSS */
 
 .body {
@@ -34,7 +34,7 @@ html.touch *:hover {
 @media (max-width: 600px) {
 	.another1 {
 		/* CHANGED THE WIDTH FOR MOBILE SCREEN - RAKESH */
-		background: url('https://preview.redd.it/esvbfdt5nh451.png?width=960&crop=smart&auto=webp&s=bd66d541302b28c4d535f41b100f3fffed8fcc2d');
+		background: url('./img/play.jpg');
 		width: 100%;
 		left: 0;
 		height: 100%;
