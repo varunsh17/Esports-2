@@ -59,10 +59,10 @@ color:  #00fcfc;
 } */
 @media (max-width:678px) {
   .imgvr{
-    width: 45vw;
+    width: 62vw;
     height: 50vh;
     clip-path: circle(35% at 50% 50%);
-  
+    top: 15vh;
   }
   .triangle{
 
@@ -82,7 +82,7 @@ color:  #00fcfc;
   .imgvr{
     /* width: 45vw;
     height: 50vh;  */
-    width: 59vw;
+    width: 62vw;
     clip-path: circle(35% at 50% 50%);
   
   }
