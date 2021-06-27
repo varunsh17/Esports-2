@@ -247,8 +247,8 @@ footer p {
 }
 /*fixed phone_info*/
 @media (max-width: 600px) {
-	#phone_no {
-		float: left;
+	ul li span #phone_no {
+		display: block;
 		width: max-content;
 	}
 }
