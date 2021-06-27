@@ -2,7 +2,9 @@
 	margin: 0;
 	padding: 0;
 }
-
+html.touch *:hover {
+	pointer-events: none !important;
+}
 /* HOMEPAGE CSS */
 
 .body {
